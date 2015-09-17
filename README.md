@@ -218,3 +218,10 @@ WeixinApi.enableDebugMode(function(errObj){
 
 ### 4、招聘广告
 鄙人目前在美丽说商业产品前端团队，队里缺靠谱的FE，欢迎推荐或自荐：http://www.baidufe.com/item/25ea3376a893619eea8c.html
+
+
+
+####官方文档
+http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html
+####其他参考博文
+http://yansong.me/2013/12/30/change-share-image-url-and-title-in-weixin.html
